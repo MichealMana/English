@@ -1,0 +1,55 @@
+A function is said to be a recursive if it calls itself. 
+ஒரு செயல்பாடு தன்னை அழைத்தால் அது ஒரு சுழல்நிலை என்று கூறப்படுகிறது.
+
+If instead, they started with a release like Ubuntu, Debian, or CentOS, they’d have fewer problems and come up to speed much faster
+அதற்கு பதிலாக, அவர்களுக்கு குறைவான சிக்கல்கள் உள்ளன, மேலும் அவை மிக வேகமாக வரும்
+
+For that, we will have to use 
+அதற்காக, நாம் பயன்படுத்த வேண்டியிருக்கும்
+
+So as you can see in this small diagram,
+இந்த சிறிய வரைபடத்தில் நீங்கள் காணக்கூடியது போல,
+
+so let's be positive please.
+எனவே தயவுசெய்து நேர்மறையாக இருக்கட்டும்.
+
+Anyone would  not find my MAC address.
+என் MAC முகவரியை யாரும் கண்டுபிடிக்க முடியாது.
+
+presumed to be in CSV format
+CSV வடிவத்தில் இருப்பதாக கருதப்படுகிறது
+
+i was just wondering
+நான் யோசித்துக்கொண்டிருந்தேன் .
+
+Check whether casvfile has header or not
+Casvfile க்கு தலைப்பு இருக்கிறதா இல்லையா என்பதைச் சரிபார்க்கவும்
+
+Check whether casvfile is header or not
+Casvfile தலைப்பு உள்ளதா இல்லையா என்பதைச் சரிபார்க்கவும்
+
+as far as i know
+எனக்கு தெரிந்தவரையில்
+
+so far i know
+இதுவரை எனக்கு தெரியும்
+
+so for i know
+அதனால் எனக்குத் தெரியும்
+
+Convert Unicode point to as Character
+யூனிகோட் புள்ளியை கேரக்டராக மாற்றவும்
+
+Convert Unicode point to be Character
+யூனிகோட் புள்ளியை கேரக்டராக மாற்றவும்
+
+It is used to deduce the format of a CSV file.
+இது ஒரு CSV கோப்பின் வடிவமைப்பைக் குறைக்கப் பயன்படுகிறது.
+
+The csv module can also be used for other file extensions (like: .txt) as long as their contents are in proper structure.
+அவற்றின் உள்ளடக்கங்கள் சரியான கட்டமைப்பில் இருக்கும் வரை சி.எஸ்.வி தொகுதி மற்ற கோப்பு நீட்டிப்புகளுக்கும் (போன்றவை: .txt) பயன்படுத்தப்படலாம்.
+
+
+BASED ON FACEBOOK GROUP POLICIES, IF YOU ARE REMOVED FROM THE GROUP, YOU WON'T BE ABLE TO SEE THE GROUP IN FUTURE. 
+
+You'll be notified if your request to join has been approved.
