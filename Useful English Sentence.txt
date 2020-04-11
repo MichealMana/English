@@ -49,6 +49,55 @@ It is used to deduce the format of a CSV file.
 The csv module can also be used for other file extensions (like: .txt) as long as their contents are in proper structure.
 அவற்றின் உள்ளடக்கங்கள் சரியான கட்டமைப்பில் இருக்கும் வரை சி.எஸ்.வி தொகுதி மற்ற கோப்பு நீட்டிப்புகளுக்கும் (போன்றவை: .txt) பயன்படுத்தப்படலாம்.
 
+it doesn't make good programmer.
+இது நல்ல புரோகிராமரை உருவாக்காது
+
+They should themselves be quoted.
+அவர்கள் தங்களை மேற்கோள் காட்ட வேண்டும்.
+
+They should  be themselves quoted.
+அவர்கள் தங்களை மேற்கோள் காட்ட வேண்டும்.
+
+In order to separate characters in the entries, we use that.
+உள்ளீடுகளில் எழுத்துக்களை பிரிக்க, அதைப் பயன்படுத்துகிறோம்.
+
+Since we allow to him, he will survival
+நாம் அவரை அனுமதிப்பதால், அவர் பிழைப்பார்.
+
+However
+எனினும்
+
+However if it 
+இருப்பினும் அது இருந்தால்
+
+it will certainly fail
+அது நிச்சயமாக தோல்வியடையும்
+
+even if
+இருந்தபோதிலும்
+
+I make toy every friday
+ஒவ்வொரு வெள்ளிக்கிழமையும் நான் பொம்மை செய்கிறேன்
+
+Most Hindus in Malaysia speak Tamil , even if they are Gujarati or Telegu.
+மலேசியாவில் உள்ள பெரும்பாலான இந்துக்கள் குஜராத்தி அல்லது தெலுங்காக இருந்தாலும் தமிழ் பேசுகிறார்கள்.
+
+as far as I've read it
+நான் அதைப் படித்தவரை
+
+even if  it is True, which may still fail
+அது உண்மைதான் என்றாலும், அது இன்னும் தோல்வியடையக்கூடும்
+
+appears to be best.
+சிறந்ததாக தோன்றுகிறது.
+
+hence of
+எனவே
+
+that file doesn't in ubuntu
+அந்த கோப்பு உபுண்டுவில் இல்லை
+
+
 
 BASED ON FACEBOOK GROUP POLICIES, IF YOU ARE REMOVED FROM THE GROUP, YOU WON'T BE ABLE TO SEE THE GROUP IN FUTURE. 
 
