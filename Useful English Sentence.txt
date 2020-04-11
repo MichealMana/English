@@ -1,8 +1,8 @@
 A function is said to be a recursive if it calls itself. 
 ஒரு செயல்பாடு தன்னை அழைத்தால் அது ஒரு சுழல்நிலை என்று கூறப்படுகிறது.
 
-If instead, they started with a release like Ubuntu, Debian, or CentOS, they’d have fewer problems and come up to speed much faster
-அதற்கு பதிலாக, அவர்களுக்கு குறைவான சிக்கல்கள் உள்ளன, மேலும் அவை மிக வேகமாக வரும்
+If instead,
+அதற்கு பதிலாக, 
 
 For that, we will have to use 
 அதற்காக, நாம் பயன்படுத்த வேண்டியிருக்கும்
@@ -46,8 +46,6 @@ Convert Unicode point to be Character
 It is used to deduce the format of a CSV file.
 இது ஒரு CSV கோப்பின் வடிவமைப்பைக் குறைக்கப் பயன்படுகிறது.
 
-The csv module can also be used for other file extensions (like: .txt) as long as their contents are in proper structure.
-அவற்றின் உள்ளடக்கங்கள் சரியான கட்டமைப்பில் இருக்கும் வரை சி.எஸ்.வி தொகுதி மற்ற கோப்பு நீட்டிப்புகளுக்கும் (போன்றவை: .txt) பயன்படுத்தப்படலாம்.
 
 it doesn't make good programmer.
 இது நல்ல புரோகிராமரை உருவாக்காது
@@ -98,7 +96,8 @@ that file doesn't in ubuntu
 அந்த கோப்பு உபுண்டுவில் இல்லை
 
 
-
-BASED ON FACEBOOK GROUP POLICIES, IF YOU ARE REMOVED FROM THE GROUP, YOU WON'T BE ABLE TO SEE THE GROUP IN FUTURE. 
+You won't be able to see that.
+நீங்கள் அதை பார்க்க முடியாது.
 
 You'll be notified if your request to join has been approved.
+சேர உங்கள் கோரிக்கை அங்கீகரிக்கப்பட்டிருந்தால் உங்களுக்கு அறிவிக்கப்படும்.
