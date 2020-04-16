@@ -101,3 +101,133 @@ You won't be able to see that.
 
 You'll be notified if your request to join has been approved.
 சேர உங்கள் கோரிக்கை அங்கீகரிக்கப்பட்டிருந்தால் உங்களுக்கு அறிவிக்கப்படும்.
+
+somehow
+எப்படியோ
+
+whenever that picture is seen
+அந்த படம் பார்க்கும்போதெல்லாம்
+
+whenever i seen
+நான் பார்த்த போதெல்லாம்
+
+whenever i need
+எனக்கு தேவையான போதெல்லாம்
+
+whenever i use
+நான் பயன்படுத்தும் போதெல்லாம்
+
+he will read all the stuff
+அவர் எல்லாவற்றையும் படிப்பார்
+
+i will read all the stuff
+நான் எல்லாவற்றையும் படிப்பேன்
+
+Why doesn't anything show up in the bottom portion when I run machine
+நான் இயந்திரத்தை இயக்கும்போது ஏன் கீழ் பகுதியில் எதுவும் காண்பிக்கப்படவில்லை
+
+Global internet being attacked by shark
+உலகளாவிய இணையம் சுறா மூலம் தாக்கப்படுகிறது.
+
+I had been go to chennai.				
+நான் சென்னைக்கு போயிருந்தேன்.
+
+What time you prefer?
+நீங்கள் எந்த நேரத்தை விரும்புகிறீர்கள்?
+
+I have been
+நான் இருந்திருக்கிறேன்
+
+it needs to be like
+அது போல இருக்க வேண்டும்
+
+needs to be
+இருக்க வேண்டும்
+
+it needs to be like her
+அது அவளைப் போல இருக்க வேண்டும்
+
+Either apple or orange
+ஆப்பிள் அல்லது ஆரஞ்சு
+
+as soon as we can.
+எங்களால் முடிந்தவரை.
+
+we help to you as soon as we can.
+எங்களால் முடிந்தவரை நாங்கள் உங்களுக்கு உதவுகிறோம்.
+
+
+We're working on getting it fixed as soon as we can.
+எங்களால் முடிந்தவரை அதை சரிசெய்யும் பணியில் ஈடுபட்டுள்ளோம்.
+
+specific
+குறிப்பிட்ட
+
+does not work.
+வேலை செய்ய வில்லை.
+
+would not work.
+வேலை செய்யாது.
+
+These people have been invited.
+இந்த நபர்கள் அழைக்கப்பட்டுள்ளனர்.
+
+These people have been invited to join the group.
+இந்த நபர்கள் குழுவில் சேர அழைக்கப்பட்டுள்ளனர்.
+
+These people had been invited to join the group.
+இந்த நபர்கள் குழுவில் சேர அழைக்கப்பட்டனர்,
+
+They have been approved.
+ அவர்கள் அனுமதிக்கப்பட்டுள்ளனர்.
+
+These people invited to join the group.
+இந்த நபர்கள் குழுவில் சேர அழைக்கப்பட்டனர்.
+
+ but have not yet accepted.
+ஆனால் இன்னும் ஏற்கவில்லை.
+
+ But have not yet accepted.
+ஆனால் இதுவரை ஏற்றுக்கொள்ளவில்லை.
+
+They'll have dicuss about the syllabus.
+They will have dicuss about the syllabus.
+அவர்கள் பாடத்திட்டத்தைப் பற்றி விவாதிப்பார்கள்
+
+They'll dicuss about the syllabus
+அவர்கள் பாடத்திட்டத்தைப் பற்றி விவாதிப்பார்கள்.
+
+I would share .
+நான் பகிர்ந்து கொள்வேன்.
+
+I would share to you
+நான் உங்களிடம் பகிர்ந்து கொள்வேன்
+
+I will share to you
+நான் உங்களுக்கு பகிர்ந்து கொள்கிறேன்
+
+This was successfuly shared.
+இது வெற்றிகரமாக பகிரப்பட்டது.
+
+What will happen if you use this command?
+இந்த கட்டளையைப் பயன்படுத்தினால் என்ன நடக்கும்?
+
+what are u doing right now?
+நீங்கள் இப்போது என்ன செய்கிறீர்கள்?
+
+once every 28 days
+ஒவ்வொரு 28 நாட்களுக்கு ஒரு முறை
+
+It will output y until its aborted
+அது நிறுத்தப்படும் வரை y ஐ வெளியிடும்
+
+I am teaching everyone 
+நான் அனைவருக்கும் கற்பிக்கிறேன்.
+
+I teach everyone using this
+இதைப் பயன்படுத்தி அனைவருக்கும் நான் கற்பிக்கிறேன்
+
+But no matter what
+ஆனால் எதுவாக இருந்தாலும் சரி
+
+
